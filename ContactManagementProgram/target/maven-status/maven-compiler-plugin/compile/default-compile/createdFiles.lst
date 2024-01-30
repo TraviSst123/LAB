@@ -1,0 +1,6 @@
+Controller\ContactManager.class
+View\Menu.class
+Model\Contact.class
+com\mycompany\contactmanagementprogram\ContactManagementProgram.class
+Controller\MainMenu.class
+Model\PhoneNumberValidator.class
