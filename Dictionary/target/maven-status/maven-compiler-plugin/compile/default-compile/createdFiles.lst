@@ -1,0 +1,6 @@
+View\Menu.class
+Model\Validation.class
+com\mycompany\dictionary\Dictionary.class
+Model\Word.class
+Controller\DictionaryCTRL.class
+Model\Dictionary.class
