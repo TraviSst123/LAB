@@ -1,0 +1,5 @@
+com\mycompany\studentmng\Studentmng.class
+View\Menu.class
+Controller\StudentManager.class
+Controller\StudentManager$StudentComparator.class
+Model\Student.class
